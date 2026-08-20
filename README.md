@@ -7,4 +7,4 @@ Integrantes: - Castillo Marcos
              - Caviedes Francisco 
              - Monsalvo Lucas
 
-Objetivo: Hacer un servidor web , que responga a un  "GET" y a un "POST" utilizando Python 
+Objetivo: Hacer un servidor web , que responda a un  "GET" y a un "POST" utilizando Python 
